@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(30, 30, 30);
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+}
+
+iframe {
+  width: 75%;
+  height: 75%;
+}
